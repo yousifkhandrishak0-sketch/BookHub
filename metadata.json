@@ -1,0 +1,6 @@
+{
+  "name": "BOOK HUB",
+  "description": "BOOK HUB – Your World of Books. Discover, read, and buy books online across Pakistan with Cash on Delivery and curated genres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
